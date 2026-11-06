@@ -1,0 +1,128 @@
+id,rarity,elixir,type,has_evolution,has_hero,name_en,name_zh-Hans,name_ja,name_ko,name_de
+26000000,common,3,troop,True,True,Knight,骑士,ナイト,기사,Ritter
+26000001,common,3,troop,True,False,Archers,弓箭手,アーチャー,아처,
+26000002,common,2,troop,False,True,Goblins,哥布林,ゴブリン,고블린,Kobolde
+26000003,rare,5,troop,True,True,Giant,巨人,ジャイアント,자이언트,Riese
+26000004,epic,7,troop,True,False,P.E.K.K.A,皮卡超人,P.E.K.K.A,P.E.K.K.A,P.E.K.K.A
+26000005,common,3,troop,False,False,Minions,亡灵,ガーゴイル,미니언,Lakaien
+26000006,epic,5,troop,False,True,Balloon,气球兵,エアバルーン,해골 비행선,Ballon
+26000007,epic,5,troop,True,False,Witch,女巫,ネクロマンサー,마녀,Hexe
+26000008,common,5,troop,True,False,Barbarians,野蛮人,バーバリアン,바바리안,Barbaren
+26000009,epic,8,troop,False,False,Golem,戈仑石人,ゴーレム,골렘,Golem
+26000010,common,1,troop,True,False,Skeletons,骷髅兵,スケルトン,해골 병사,Skelette
+26000011,rare,4,troop,True,True,Valkyrie,瓦基丽武神,バルキリー,발키리,Walküre
+26000012,epic,3,troop,True,False,Skeleton Army,骷髅军团,スケルトン部隊,해골 군대,Skelettarmee
+26000013,common,2,troop,True,False,Bomber,炸弹兵,ボンバー,폭탄병,
+26000014,rare,4,troop,True,True,Musketeer,火枪手,マスケット銃士,머스킷병,
+26000015,epic,4,troop,True,False,Baby Dragon,飞龙宝宝,ベビードラゴン,베이비 드래곤,Babydrache
+26000016,epic,5,troop,False,False,Prince,王子,プリンス,프린스,Prinz
+26000017,rare,5,troop,True,True,Wizard,法师,ウィザード,마법사,Magier
+26000018,rare,4,troop,False,True,Mini P.E.K.K.A,迷你皮卡,ミニP.E.K.K.A,미니 P.E.K.K.A,Mini-P.E.K.K.A
+26000019,common,2,troop,False,False,Spear Goblins,哥布林投矛手,槍ゴブリン,창 고블린,Speerkobolde
+26000020,epic,6,troop,False,False,Giant Skeleton,骷髅巨人,ジャイアントスケルトン,자이언트 해골,Riesenskelett
+26000021,rare,4,troop,False,False,Hog Rider,野猪骑士,ホグライダー,호그 라이더,Schweinereiter
+26000022,common,5,troop,True,False,Minion Horde,亡灵大军,ガーゴイルの群れ,미니언 패거리,Lakaienhorde
+26000023,legendary,3,troop,False,True,Ice Wizard,寒冰法师,アイスウィザード,얼음 마법사,Eismagier
+26000024,common,6,troop,True,False,Royal Giant,皇家巨人,ロイヤルジャイアント,로얄 자이언트,Königsriese
+26000025,epic,3,troop,False,False,Guards,骷髅守卫,,가드,
+26000026,legendary,3,troop,True,False,Princess,公主,プリンセス,프린세스,Prinzessin
+26000027,epic,4,troop,False,True,Dark Prince,黑暗王子,ダークプリンス,다크 프린스,Dunkler Prinz
+26000028,rare,9,troop,False,False,Three Musketeers,三个火枪手,三銃士,삼총사,
+26000029,legendary,7,troop,False,False,Lava Hound,熔岩猎犬,ラヴァハウンド,라바 하운드,Lavahund
+26000030,common,1,troop,True,False,Ice Spirit,冰雪精灵,アイススピリット,아이스 스피릿,Eisgeist
+26000031,common,1,troop,False,False,Fire Spirit,烈焰精灵,,파이어 스피릿,
+26000032,legendary,3,troop,False,False,Miner,掘地矿工,ディガー,광부,
+26000033,legendary,6,troop,False,False,Sparky,电磁炮,スパーキー,스파키,Sparky
+26000034,epic,5,troop,False,True,Bowler,巨石投手,ボウラー,볼러,
+26000035,legendary,4,troop,True,False,Lumberjack,狂暴樵夫,ランバージャック,나무꾼,Holzfäller
+26000036,rare,4,troop,True,False,Battle Ram,野蛮人攻城槌,破城槌,배틀 램,Rammbock
+26000037,legendary,4,troop,True,False,Inferno Dragon,地狱飞龙,インフェルノドラゴン,인페르노 드래곤,Infernodrache
+26000038,rare,2,troop,False,True,Ice Golem,戈仑冰人,アイスゴーレム,얼음 골렘,Eisgolem
+26000039,rare,3,troop,False,True,Mega Minion,重甲亡灵,メガガーゴイル,메가 미니언,Megalakai
+26000040,rare,3,troop,True,False,Dart Goblin,吹箭哥布林,吹き矢ゴブリン,다트 고블린,
+26000041,common,3,troop,False,False,Goblin Gang,哥布林团伙,ゴブリンギャング,고블린 갱,Koboldbande
+26000042,legendary,4,troop,False,True,Electro Wizard,闪电法师,エレクトロウィザード,일렉트로 마법사,Elektromagier
+26000043,common,6,troop,True,False,Elite Barbarians,野蛮人精锐,エリートバーバリアン,엘리트 바바리안,Elitebarbaren
+26000044,epic,4,troop,True,False,Hunter,猎人,ハンター,사냥꾼,Jäger
+26000045,epic,5,troop,True,False,Executioner,飞斧屠夫,エクスキューショナー,도끼맨,
+26000046,legendary,3,troop,False,False,Bandit,幻影刺客,バンディット,도둑,
+26000047,common,7,troop,True,False,Royal Recruits,皇家卫队,,로얄 훈련병,Königliche Rekruten
+26000048,legendary,4,troop,False,False,Night Witch,暗夜女巫,ダークネクロ,암흑 마녀,Nachthexe
+26000049,common,2,troop,True,False,Bats,蝙蝠,コウモリの群れ,박쥐,Fledermäuse
+26000050,legendary,3,troop,True,False,Royal Ghost,皇家幽灵,ロイヤルゴースト,로얄 고스트,
+26000051,legendary,5,troop,False,False,Ram Rider,蛮羊骑士,ラムライダー,램 라이더,
+26000052,rare,4,troop,False,False,Zappies,电击车小队,,감전돌이,
+26000053,common,5,troop,False,False,Rascals,绿林团伙,,악동,
+26000054,epic,5,troop,False,False,Cannon Cart,加农炮战车,キャノンカート,대포 카트,
+26000055,legendary,7,troop,True,False,Mega Knight,超级骑士,メガナイト,메가 나이트,Megaritter
+26000056,common,3,troop,True,False,Skeleton Barrel,骷髅气球,,해골 통,
+26000057,rare,4,troop,False,False,Flying Machine,飞行器,フライングマシン,플라잉 머신,
+26000058,epic,2,troop,True,False,Wall Breakers,攻城炸弹人,ウォールブレイカー,해골 돌격병,
+26000059,rare,5,troop,True,False,Royal Hogs,皇家野猪,ロイヤルホグ,로얄 호그,
+26000060,epic,6,troop,True,False,Goblin Giant,哥布林巨人,ゴブリンジャイアント,자이언트 고블린,Koboldriese
+26000061,legendary,3,troop,False,False,Fisherman,渔夫,,낚시꾼,
+26000062,legendary,4,troop,False,True,Magic Archer,神箭游侠,マジックアーチャー,마법 아처,
+26000063,epic,5,troop,True,False,Electro Dragon,雷电飞龙,エレクトロドラゴン,일렉트로 드래곤,Elektrodrache
+26000064,common,3,troop,True,False,Firecracker,烟花炮手,花火技師,로켓병,
+26000065,champion,4,troop,False,False,Mighty Miner,威猛矿工,,능력자 광부,
+26000067,rare,3,troop,False,False,Elixir Golem,圣水戈仑,エリクサーゴーレム,엘릭서 골렘,Elixiergolem
+26000068,rare,4,troop,False,False,Battle Healer,战斗天使,バトルヒーラー,전투 치유사,
+26000069,champion,4,troop,False,False,Skeleton King,骷髅帝王,スケルトンキング,해골 킹,
+26000072,champion,5,troop,False,False,Archer Queen,弓箭女皇,アーチャークイーン,아처 퀸,
+26000074,champion,4,troop,False,False,Golden Knight,黄金圣骑,ゴールドナイト,골드 나이트,
+26000077,champion,5,troop,False,False,Monk,盖世武僧,,수도자,
+26000080,common,4,troop,False,False,Skeleton Dragons,骷髅飞龙,,해골 드래곤,
+26000083,legendary,4,troop,False,False,Mother Witch,女巫婆婆,,엄마 마녀,
+26000084,common,1,troop,False,False,Electro Spirit,雷电精灵,,일렉트로 스피릿,
+26000085,epic,7,troop,True,False,Electro Giant,雷电巨人,エレクトロジャイアント,일렉트로 자이언트,Elektroriese
+26000087,legendary,4,troop,False,False,Phoenix,凤凰,,피닉스,
+26000093,champion,3,troop,False,False,Little Prince,小王子,,리틀 프린스,
+26000095,rare,4,troop,False,False,Goblin Demolisher,哥布林爆破手,,고블린 데몰리셔,
+26000096,legendary,5,troop,False,False,Goblin Machine,哥布林机甲,,고블린 머신,
+26000097,rare,2,troop,False,False,Suspicious Bush,可疑草丛,,수상한 수풀,
+26000099,champion,5,troop,False,False,Goblinstein,科学怪哥布林,,고블린슈타인,
+26000101,epic,4,troop,False,False,Rune Giant,符文巨人,,룬 자이언트,
+26000102,common,2,troop,False,True,Berserker,狂战士,,버서커,
+26000103,champion,6,troop,False,False,Boss Bandit,刺客头领,,대장 도둑,
+26000106,legendary,5,troop,False,False,Ronin,浪人,,,
+26000107,rare,4,troop,False,False,Minion Giant,亡灵巨人,,미니언 자이언트,
+27000000,common,3,building,True,False,Cannon,加农炮,大砲,대포,Kanone
+27000001,rare,4,building,False,False,Goblin Hut,哥布林小屋,ゴブリン小屋,고블린 오두막,Koboldhütte
+27000002,common,4,building,True,False,Mortar,迫击炮,迫撃砲,박격포,Mörser
+27000003,rare,5,building,False,False,Inferno Tower,地狱之塔,インフェルノタワー,인페르노 타워,Infernoturm
+27000004,rare,4,building,False,False,Bomb Tower,炸弹塔,ボムタワー,폭탄 타워,Bombenturm
+27000005,rare,6,building,False,False,Barbarian Hut,野蛮人小屋,,바바리안 오두막,Barbarenhütte
+27000006,common,4,building,True,False,Tesla,特斯拉电磁塔,テスラ,뇌전탑,
+27000007,rare,6,building,False,False,Elixir Collector,圣水收集器,エリクサーポンプ,엘릭서 정제소,
+27000008,epic,6,building,False,False,X-Bow,十字连弩,クロスボウ,대형 석궁,X-Bogen
+27000009,rare,3,building,False,True,Tombstone,骷髅墓碑,墓石,해골 무덤,Grabstein
+27000010,rare,4,building,True,False,Furnace,烈焰熔炉,,용광로,
+27000012,rare,4,building,True,False,Goblin Cage,哥布林牢笼,,고블린 우리,
+27000013,epic,4,building,True,False,Goblin Drill,哥布林钻机,ゴブリンドリル,고블린 드릴,
+28000000,rare,4,spell,False,False,Fireball,火球,ファイアボール,파이어 볼,Feuerball
+28000001,common,3,spell,False,False,Arrows,万箭齐发,矢の雨,화살,Pfeile
+28000002,epic,2,spell,False,False,Rage,狂暴法术,レイジ,분노 마법,Wut
+28000003,rare,6,spell,False,False,Rocket,火箭,ロケット,로켓,Rakete
+28000004,epic,3,spell,True,False,Goblin Barrel,哥布林飞桶,ゴブリンバレル,고블린 통,Koboldfass
+28000005,epic,4,spell,False,False,Freeze,冰冻法术,フリーズ,얼음 마법,
+28000006,epic,,spell,False,False,Mirror,镜像法术,ミラー,반사경,Spiegel
+28000007,epic,6,spell,False,False,Lightning,雷电法术,ライトニング,번개 마법,Blitz
+28000008,common,2,spell,True,False,Zap,电击法术,ザップ,감전 마법,
+28000009,epic,4,spell,False,False,Poison,伤害药水法术,ポイズン,독 마법,Gift
+28000010,legendary,5,spell,False,False,Graveyard,骷髅召唤,スケルトンラッシュ,무덤,Friedhof
+28000011,legendary,2,spell,False,False,The Log,滚木,ローリングウッド,통나무,
+28000012,epic,3,spell,False,False,Tornado,飓风法术,トルネード,토네이도,Tornado
+28000013,epic,3,spell,False,False,Clone,克隆法术,クローン,복제 마법,Klon
+28000014,rare,3,spell,False,False,Earthquake,地震法术,アースクエイク,지진 마법,Erdbeben
+28000015,epic,2,spell,False,True,Barbarian Barrel,野蛮人滚桶,バーバリアンバレル,바바리안 통,Barbarenfass
+28000016,rare,1,spell,False,False,Heal Spirit,治疗精灵,ヒールスピリット,힐링 스피릿,
+28000017,common,2,spell,True,False,Giant Snowball,大雪球,,거대 눈덩이,
+28000018,common,3,spell,False,False,Royal Delivery,皇家速递,,로얄 택배,
+28000023,epic,5,spell,False,False,Void,虚空法术,,공허 마법,
+28000024,epic,2,spell,False,False,Goblin Curse,哥布林魔咒,,고블린 저주,
+28000025,legendary,6,spell,False,False,Spirit Empress,精灵女王,,스피릿 엠프레스,
+28000026,epic,3,spell,False,False,Vines,藤蔓法术,,덩굴 마법,
+159000000,common,,tower_troop,False,False,Tower Princess,皇家塔公主,,타워 프린세스,
+159000001,epic,,tower_troop,False,False,Cannoneer,炮兵,,대포 사수,
+159000002,legendary,,tower_troop,False,False,Dagger Duchess,飞刀女爵,,단검 공작부인,
+159000004,legendary,,tower_troop,False,False,Royal Chef,皇家大厨,,로얄 셰프,

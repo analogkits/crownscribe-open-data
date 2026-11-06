@@ -1,0 +1,1939 @@
+{
+  "generated": "2026-11-06",
+  "source": "Supercell Clash Royale API via crownscribe.com",
+  "cards": [
+    {
+      "id": 26000000,
+      "name": "Knight",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": true,
+      "names": {
+        "en": "Knight",
+        "zh-Hans": "骑士",
+        "ja": "ナイト",
+        "ko": "기사",
+        "de": "Ritter"
+      }
+    },
+    {
+      "id": 26000001,
+      "name": "Archers",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Archers",
+        "zh-Hans": "弓箭手",
+        "ja": "アーチャー",
+        "ko": "아처"
+      }
+    },
+    {
+      "id": 26000002,
+      "name": "Goblins",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Goblins",
+        "zh-Hans": "哥布林",
+        "ja": "ゴブリン",
+        "ko": "고블린",
+        "de": "Kobolde"
+      }
+    },
+    {
+      "id": 26000003,
+      "name": "Giant",
+      "rarity": "rare",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": true,
+      "names": {
+        "en": "Giant",
+        "zh-Hans": "巨人",
+        "ja": "ジャイアント",
+        "ko": "자이언트",
+        "de": "Riese"
+      }
+    },
+    {
+      "id": 26000004,
+      "name": "P.E.K.K.A",
+      "rarity": "epic",
+      "elixir": 7,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "P.E.K.K.A",
+        "zh-Hans": "皮卡超人",
+        "ja": "P.E.K.K.A",
+        "ko": "P.E.K.K.A",
+        "de": "P.E.K.K.A"
+      }
+    },
+    {
+      "id": 26000005,
+      "name": "Minions",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Minions",
+        "zh-Hans": "亡灵",
+        "ja": "ガーゴイル",
+        "ko": "미니언",
+        "de": "Lakaien"
+      }
+    },
+    {
+      "id": 26000006,
+      "name": "Balloon",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Balloon",
+        "zh-Hans": "气球兵",
+        "ja": "エアバルーン",
+        "ko": "해골 비행선",
+        "de": "Ballon"
+      }
+    },
+    {
+      "id": 26000007,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Witch",
+        "zh-Hans": "女巫",
+        "ja": "ネクロマンサー",
+        "ko": "마녀",
+        "de": "Hexe"
+      }
+    },
+    {
+      "id": 26000008,
+      "name": "Barbarians",
+      "rarity": "common",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Barbarians",
+        "zh-Hans": "野蛮人",
+        "ja": "バーバリアン",
+        "ko": "바바리안",
+        "de": "Barbaren"
+      }
+    },
+    {
+      "id": 26000009,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixir": 8,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Golem",
+        "zh-Hans": "戈仑石人",
+        "ja": "ゴーレム",
+        "ko": "골렘",
+        "de": "Golem"
+      }
+    },
+    {
+      "id": 26000010,
+      "name": "Skeletons",
+      "rarity": "common",
+      "elixir": 1,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Skeletons",
+        "zh-Hans": "骷髅兵",
+        "ja": "スケルトン",
+        "ko": "해골 병사",
+        "de": "Skelette"
+      }
+    },
+    {
+      "id": 26000011,
+      "name": "Valkyrie",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": true,
+      "names": {
+        "en": "Valkyrie",
+        "zh-Hans": "瓦基丽武神",
+        "ja": "バルキリー",
+        "ko": "발키리",
+        "de": "Walküre"
+      }
+    },
+    {
+      "id": 26000012,
+      "name": "Skeleton Army",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Skeleton Army",
+        "zh-Hans": "骷髅军团",
+        "ja": "スケルトン部隊",
+        "ko": "해골 군대",
+        "de": "Skelettarmee"
+      }
+    },
+    {
+      "id": 26000013,
+      "name": "Bomber",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Bomber",
+        "zh-Hans": "炸弹兵",
+        "ja": "ボンバー",
+        "ko": "폭탄병"
+      }
+    },
+    {
+      "id": 26000014,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": true,
+      "names": {
+        "en": "Musketeer",
+        "zh-Hans": "火枪手",
+        "ja": "マスケット銃士",
+        "ko": "머스킷병"
+      }
+    },
+    {
+      "id": 26000015,
+      "name": "Baby Dragon",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Baby Dragon",
+        "zh-Hans": "飞龙宝宝",
+        "ja": "ベビードラゴン",
+        "ko": "베이비 드래곤",
+        "de": "Babydrache"
+      }
+    },
+    {
+      "id": 26000016,
+      "name": "Prince",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Prince",
+        "zh-Hans": "王子",
+        "ja": "プリンス",
+        "ko": "프린스",
+        "de": "Prinz"
+      }
+    },
+    {
+      "id": 26000017,
+      "name": "Wizard",
+      "rarity": "rare",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": true,
+      "names": {
+        "en": "Wizard",
+        "zh-Hans": "法师",
+        "ja": "ウィザード",
+        "ko": "마법사",
+        "de": "Magier"
+      }
+    },
+    {
+      "id": 26000018,
+      "name": "Mini P.E.K.K.A",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Mini P.E.K.K.A",
+        "zh-Hans": "迷你皮卡",
+        "ja": "ミニP.E.K.K.A",
+        "ko": "미니 P.E.K.K.A",
+        "de": "Mini-P.E.K.K.A"
+      }
+    },
+    {
+      "id": 26000019,
+      "name": "Spear Goblins",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Spear Goblins",
+        "zh-Hans": "哥布林投矛手",
+        "ja": "槍ゴブリン",
+        "ko": "창 고블린",
+        "de": "Speerkobolde"
+      }
+    },
+    {
+      "id": 26000020,
+      "name": "Giant Skeleton",
+      "rarity": "epic",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Giant Skeleton",
+        "zh-Hans": "骷髅巨人",
+        "ja": "ジャイアントスケルトン",
+        "ko": "자이언트 해골",
+        "de": "Riesenskelett"
+      }
+    },
+    {
+      "id": 26000021,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Hog Rider",
+        "zh-Hans": "野猪骑士",
+        "ja": "ホグライダー",
+        "ko": "호그 라이더",
+        "de": "Schweinereiter"
+      }
+    },
+    {
+      "id": 26000022,
+      "name": "Minion Horde",
+      "rarity": "common",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Minion Horde",
+        "zh-Hans": "亡灵大军",
+        "ja": "ガーゴイルの群れ",
+        "ko": "미니언 패거리",
+        "de": "Lakaienhorde"
+      }
+    },
+    {
+      "id": 26000023,
+      "name": "Ice Wizard",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Ice Wizard",
+        "zh-Hans": "寒冰法师",
+        "ja": "アイスウィザード",
+        "ko": "얼음 마법사",
+        "de": "Eismagier"
+      }
+    },
+    {
+      "id": 26000024,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Giant",
+        "zh-Hans": "皇家巨人",
+        "ja": "ロイヤルジャイアント",
+        "ko": "로얄 자이언트",
+        "de": "Königsriese"
+      }
+    },
+    {
+      "id": 26000025,
+      "name": "Guards",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Guards",
+        "zh-Hans": "骷髅守卫",
+        "ko": "가드"
+      }
+    },
+    {
+      "id": 26000026,
+      "name": "Princess",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Princess",
+        "zh-Hans": "公主",
+        "ja": "プリンセス",
+        "ko": "프린세스",
+        "de": "Prinzessin"
+      }
+    },
+    {
+      "id": 26000027,
+      "name": "Dark Prince",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Dark Prince",
+        "zh-Hans": "黑暗王子",
+        "ja": "ダークプリンス",
+        "ko": "다크 프린스",
+        "de": "Dunkler Prinz"
+      }
+    },
+    {
+      "id": 26000028,
+      "name": "Three Musketeers",
+      "rarity": "rare",
+      "elixir": 9,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Three Musketeers",
+        "zh-Hans": "三个火枪手",
+        "ja": "三銃士",
+        "ko": "삼총사"
+      }
+    },
+    {
+      "id": 26000029,
+      "name": "Lava Hound",
+      "rarity": "legendary",
+      "elixir": 7,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Lava Hound",
+        "zh-Hans": "熔岩猎犬",
+        "ja": "ラヴァハウンド",
+        "ko": "라바 하운드",
+        "de": "Lavahund"
+      }
+    },
+    {
+      "id": 26000030,
+      "name": "Ice Spirit",
+      "rarity": "common",
+      "elixir": 1,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Ice Spirit",
+        "zh-Hans": "冰雪精灵",
+        "ja": "アイススピリット",
+        "ko": "아이스 스피릿",
+        "de": "Eisgeist"
+      }
+    },
+    {
+      "id": 26000031,
+      "name": "Fire Spirit",
+      "rarity": "common",
+      "elixir": 1,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Fire Spirit",
+        "zh-Hans": "烈焰精灵",
+        "ko": "파이어 스피릿"
+      }
+    },
+    {
+      "id": 26000032,
+      "name": "Miner",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Miner",
+        "zh-Hans": "掘地矿工",
+        "ja": "ディガー",
+        "ko": "광부"
+      }
+    },
+    {
+      "id": 26000033,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Sparky",
+        "zh-Hans": "电磁炮",
+        "ja": "スパーキー",
+        "ko": "스파키",
+        "de": "Sparky"
+      }
+    },
+    {
+      "id": 26000034,
+      "name": "Bowler",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Bowler",
+        "zh-Hans": "巨石投手",
+        "ja": "ボウラー",
+        "ko": "볼러"
+      }
+    },
+    {
+      "id": 26000035,
+      "name": "Lumberjack",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Lumberjack",
+        "zh-Hans": "狂暴樵夫",
+        "ja": "ランバージャック",
+        "ko": "나무꾼",
+        "de": "Holzfäller"
+      }
+    },
+    {
+      "id": 26000036,
+      "name": "Battle Ram",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Battle Ram",
+        "zh-Hans": "野蛮人攻城槌",
+        "ja": "破城槌",
+        "ko": "배틀 램",
+        "de": "Rammbock"
+      }
+    },
+    {
+      "id": 26000037,
+      "name": "Inferno Dragon",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Inferno Dragon",
+        "zh-Hans": "地狱飞龙",
+        "ja": "インフェルノドラゴン",
+        "ko": "인페르노 드래곤",
+        "de": "Infernodrache"
+      }
+    },
+    {
+      "id": 26000038,
+      "name": "Ice Golem",
+      "rarity": "rare",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Ice Golem",
+        "zh-Hans": "戈仑冰人",
+        "ja": "アイスゴーレム",
+        "ko": "얼음 골렘",
+        "de": "Eisgolem"
+      }
+    },
+    {
+      "id": 26000039,
+      "name": "Mega Minion",
+      "rarity": "rare",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Mega Minion",
+        "zh-Hans": "重甲亡灵",
+        "ja": "メガガーゴイル",
+        "ko": "메가 미니언",
+        "de": "Megalakai"
+      }
+    },
+    {
+      "id": 26000040,
+      "name": "Dart Goblin",
+      "rarity": "rare",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Dart Goblin",
+        "zh-Hans": "吹箭哥布林",
+        "ja": "吹き矢ゴブリン",
+        "ko": "다트 고블린"
+      }
+    },
+    {
+      "id": 26000041,
+      "name": "Goblin Gang",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Gang",
+        "zh-Hans": "哥布林团伙",
+        "ja": "ゴブリンギャング",
+        "ko": "고블린 갱",
+        "de": "Koboldbande"
+      }
+    },
+    {
+      "id": 26000042,
+      "name": "Electro Wizard",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Electro Wizard",
+        "zh-Hans": "闪电法师",
+        "ja": "エレクトロウィザード",
+        "ko": "일렉트로 마법사",
+        "de": "Elektromagier"
+      }
+    },
+    {
+      "id": 26000043,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Elite Barbarians",
+        "zh-Hans": "野蛮人精锐",
+        "ja": "エリートバーバリアン",
+        "ko": "엘리트 바바리안",
+        "de": "Elitebarbaren"
+      }
+    },
+    {
+      "id": 26000044,
+      "name": "Hunter",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Hunter",
+        "zh-Hans": "猎人",
+        "ja": "ハンター",
+        "ko": "사냥꾼",
+        "de": "Jäger"
+      }
+    },
+    {
+      "id": 26000045,
+      "name": "Executioner",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Executioner",
+        "zh-Hans": "飞斧屠夫",
+        "ja": "エクスキューショナー",
+        "ko": "도끼맨"
+      }
+    },
+    {
+      "id": 26000046,
+      "name": "Bandit",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Bandit",
+        "zh-Hans": "幻影刺客",
+        "ja": "バンディット",
+        "ko": "도둑"
+      }
+    },
+    {
+      "id": 26000047,
+      "name": "Royal Recruits",
+      "rarity": "common",
+      "elixir": 7,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Recruits",
+        "zh-Hans": "皇家卫队",
+        "ko": "로얄 훈련병",
+        "de": "Königliche Rekruten"
+      }
+    },
+    {
+      "id": 26000048,
+      "name": "Night Witch",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Night Witch",
+        "zh-Hans": "暗夜女巫",
+        "ja": "ダークネクロ",
+        "ko": "암흑 마녀",
+        "de": "Nachthexe"
+      }
+    },
+    {
+      "id": 26000049,
+      "name": "Bats",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Bats",
+        "zh-Hans": "蝙蝠",
+        "ja": "コウモリの群れ",
+        "ko": "박쥐",
+        "de": "Fledermäuse"
+      }
+    },
+    {
+      "id": 26000050,
+      "name": "Royal Ghost",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Ghost",
+        "zh-Hans": "皇家幽灵",
+        "ja": "ロイヤルゴースト",
+        "ko": "로얄 고스트"
+      }
+    },
+    {
+      "id": 26000051,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Ram Rider",
+        "zh-Hans": "蛮羊骑士",
+        "ja": "ラムライダー",
+        "ko": "램 라이더"
+      }
+    },
+    {
+      "id": 26000052,
+      "name": "Zappies",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Zappies",
+        "zh-Hans": "电击车小队",
+        "ko": "감전돌이"
+      }
+    },
+    {
+      "id": 26000053,
+      "name": "Rascals",
+      "rarity": "common",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Rascals",
+        "zh-Hans": "绿林团伙",
+        "ko": "악동"
+      }
+    },
+    {
+      "id": 26000054,
+      "name": "Cannon Cart",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Cannon Cart",
+        "zh-Hans": "加农炮战车",
+        "ja": "キャノンカート",
+        "ko": "대포 카트"
+      }
+    },
+    {
+      "id": 26000055,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixir": 7,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Mega Knight",
+        "zh-Hans": "超级骑士",
+        "ja": "メガナイト",
+        "ko": "메가 나이트",
+        "de": "Megaritter"
+      }
+    },
+    {
+      "id": 26000056,
+      "name": "Skeleton Barrel",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Skeleton Barrel",
+        "zh-Hans": "骷髅气球",
+        "ko": "해골 통"
+      }
+    },
+    {
+      "id": 26000057,
+      "name": "Flying Machine",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Flying Machine",
+        "zh-Hans": "飞行器",
+        "ja": "フライングマシン",
+        "ko": "플라잉 머신"
+      }
+    },
+    {
+      "id": 26000058,
+      "name": "Wall Breakers",
+      "rarity": "epic",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Wall Breakers",
+        "zh-Hans": "攻城炸弹人",
+        "ja": "ウォールブレイカー",
+        "ko": "해골 돌격병"
+      }
+    },
+    {
+      "id": 26000059,
+      "name": "Royal Hogs",
+      "rarity": "rare",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Hogs",
+        "zh-Hans": "皇家野猪",
+        "ja": "ロイヤルホグ",
+        "ko": "로얄 호그"
+      }
+    },
+    {
+      "id": 26000060,
+      "name": "Goblin Giant",
+      "rarity": "epic",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Giant",
+        "zh-Hans": "哥布林巨人",
+        "ja": "ゴブリンジャイアント",
+        "ko": "자이언트 고블린",
+        "de": "Koboldriese"
+      }
+    },
+    {
+      "id": 26000061,
+      "name": "Fisherman",
+      "rarity": "legendary",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Fisherman",
+        "zh-Hans": "渔夫",
+        "ko": "낚시꾼"
+      }
+    },
+    {
+      "id": 26000062,
+      "name": "Magic Archer",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Magic Archer",
+        "zh-Hans": "神箭游侠",
+        "ja": "マジックアーチャー",
+        "ko": "마법 아처"
+      }
+    },
+    {
+      "id": 26000063,
+      "name": "Electro Dragon",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Electro Dragon",
+        "zh-Hans": "雷电飞龙",
+        "ja": "エレクトロドラゴン",
+        "ko": "일렉트로 드래곤",
+        "de": "Elektrodrache"
+      }
+    },
+    {
+      "id": 26000064,
+      "name": "Firecracker",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Firecracker",
+        "zh-Hans": "烟花炮手",
+        "ja": "花火技師",
+        "ko": "로켓병"
+      }
+    },
+    {
+      "id": 26000065,
+      "name": "Mighty Miner",
+      "rarity": "champion",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Mighty Miner",
+        "zh-Hans": "威猛矿工",
+        "ko": "능력자 광부"
+      }
+    },
+    {
+      "id": 26000067,
+      "name": "Elixir Golem",
+      "rarity": "rare",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Elixir Golem",
+        "zh-Hans": "圣水戈仑",
+        "ja": "エリクサーゴーレム",
+        "ko": "엘릭서 골렘",
+        "de": "Elixiergolem"
+      }
+    },
+    {
+      "id": 26000068,
+      "name": "Battle Healer",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Battle Healer",
+        "zh-Hans": "战斗天使",
+        "ja": "バトルヒーラー",
+        "ko": "전투 치유사"
+      }
+    },
+    {
+      "id": 26000069,
+      "name": "Skeleton King",
+      "rarity": "champion",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Skeleton King",
+        "zh-Hans": "骷髅帝王",
+        "ja": "スケルトンキング",
+        "ko": "해골 킹"
+      }
+    },
+    {
+      "id": 26000072,
+      "name": "Archer Queen",
+      "rarity": "champion",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Archer Queen",
+        "zh-Hans": "弓箭女皇",
+        "ja": "アーチャークイーン",
+        "ko": "아처 퀸"
+      }
+    },
+    {
+      "id": 26000074,
+      "name": "Golden Knight",
+      "rarity": "champion",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Golden Knight",
+        "zh-Hans": "黄金圣骑",
+        "ja": "ゴールドナイト",
+        "ko": "골드 나이트"
+      }
+    },
+    {
+      "id": 26000077,
+      "name": "Monk",
+      "rarity": "champion",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Monk",
+        "zh-Hans": "盖世武僧",
+        "ko": "수도자"
+      }
+    },
+    {
+      "id": 26000080,
+      "name": "Skeleton Dragons",
+      "rarity": "common",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Skeleton Dragons",
+        "zh-Hans": "骷髅飞龙",
+        "ko": "해골 드래곤"
+      }
+    },
+    {
+      "id": 26000083,
+      "name": "Mother Witch",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Mother Witch",
+        "zh-Hans": "女巫婆婆",
+        "ko": "엄마 마녀"
+      }
+    },
+    {
+      "id": 26000084,
+      "name": "Electro Spirit",
+      "rarity": "common",
+      "elixir": 1,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Electro Spirit",
+        "zh-Hans": "雷电精灵",
+        "ko": "일렉트로 스피릿"
+      }
+    },
+    {
+      "id": 26000085,
+      "name": "Electro Giant",
+      "rarity": "epic",
+      "elixir": 7,
+      "type": "troop",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Electro Giant",
+        "zh-Hans": "雷电巨人",
+        "ja": "エレクトロジャイアント",
+        "ko": "일렉트로 자이언트",
+        "de": "Elektroriese"
+      }
+    },
+    {
+      "id": 26000087,
+      "name": "Phoenix",
+      "rarity": "legendary",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Phoenix",
+        "zh-Hans": "凤凰",
+        "ko": "피닉스"
+      }
+    },
+    {
+      "id": 26000093,
+      "name": "Little Prince",
+      "rarity": "champion",
+      "elixir": 3,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Little Prince",
+        "zh-Hans": "小王子",
+        "ko": "리틀 프린스"
+      }
+    },
+    {
+      "id": 26000095,
+      "name": "Goblin Demolisher",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Demolisher",
+        "zh-Hans": "哥布林爆破手",
+        "ko": "고블린 데몰리셔"
+      }
+    },
+    {
+      "id": 26000096,
+      "name": "Goblin Machine",
+      "rarity": "legendary",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Machine",
+        "zh-Hans": "哥布林机甲",
+        "ko": "고블린 머신"
+      }
+    },
+    {
+      "id": 26000097,
+      "name": "Suspicious Bush",
+      "rarity": "rare",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Suspicious Bush",
+        "zh-Hans": "可疑草丛",
+        "ko": "수상한 수풀"
+      }
+    },
+    {
+      "id": 26000099,
+      "name": "Goblinstein",
+      "rarity": "champion",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblinstein",
+        "zh-Hans": "科学怪哥布林",
+        "ko": "고블린슈타인"
+      }
+    },
+    {
+      "id": 26000101,
+      "name": "Rune Giant",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Rune Giant",
+        "zh-Hans": "符文巨人",
+        "ko": "룬 자이언트"
+      }
+    },
+    {
+      "id": 26000102,
+      "name": "Berserker",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Berserker",
+        "zh-Hans": "狂战士",
+        "ko": "버서커"
+      }
+    },
+    {
+      "id": 26000103,
+      "name": "Boss Bandit",
+      "rarity": "champion",
+      "elixir": 6,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Boss Bandit",
+        "zh-Hans": "刺客头领",
+        "ko": "대장 도둑"
+      }
+    },
+    {
+      "id": 26000106,
+      "name": "Ronin",
+      "rarity": "legendary",
+      "elixir": 5,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Ronin",
+        "zh-Hans": "浪人"
+      }
+    },
+    {
+      "id": 26000107,
+      "name": "Minion Giant",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Minion Giant",
+        "zh-Hans": "亡灵巨人",
+        "ko": "미니언 자이언트"
+      }
+    },
+    {
+      "id": 27000000,
+      "name": "Cannon",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Cannon",
+        "zh-Hans": "加农炮",
+        "ja": "大砲",
+        "ko": "대포",
+        "de": "Kanone"
+      }
+    },
+    {
+      "id": 27000001,
+      "name": "Goblin Hut",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Hut",
+        "zh-Hans": "哥布林小屋",
+        "ja": "ゴブリン小屋",
+        "ko": "고블린 오두막",
+        "de": "Koboldhütte"
+      }
+    },
+    {
+      "id": 27000002,
+      "name": "Mortar",
+      "rarity": "common",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Mortar",
+        "zh-Hans": "迫击炮",
+        "ja": "迫撃砲",
+        "ko": "박격포",
+        "de": "Mörser"
+      }
+    },
+    {
+      "id": 27000003,
+      "name": "Inferno Tower",
+      "rarity": "rare",
+      "elixir": 5,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Inferno Tower",
+        "zh-Hans": "地狱之塔",
+        "ja": "インフェルノタワー",
+        "ko": "인페르노 타워",
+        "de": "Infernoturm"
+      }
+    },
+    {
+      "id": 27000004,
+      "name": "Bomb Tower",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Bomb Tower",
+        "zh-Hans": "炸弹塔",
+        "ja": "ボムタワー",
+        "ko": "폭탄 타워",
+        "de": "Bombenturm"
+      }
+    },
+    {
+      "id": 27000005,
+      "name": "Barbarian Hut",
+      "rarity": "rare",
+      "elixir": 6,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Barbarian Hut",
+        "zh-Hans": "野蛮人小屋",
+        "ko": "바바리안 오두막",
+        "de": "Barbarenhütte"
+      }
+    },
+    {
+      "id": 27000006,
+      "name": "Tesla",
+      "rarity": "common",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Tesla",
+        "zh-Hans": "特斯拉电磁塔",
+        "ja": "テスラ",
+        "ko": "뇌전탑"
+      }
+    },
+    {
+      "id": 27000007,
+      "name": "Elixir Collector",
+      "rarity": "rare",
+      "elixir": 6,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Elixir Collector",
+        "zh-Hans": "圣水收集器",
+        "ja": "エリクサーポンプ",
+        "ko": "엘릭서 정제소"
+      }
+    },
+    {
+      "id": 27000008,
+      "name": "X-Bow",
+      "rarity": "epic",
+      "elixir": 6,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "X-Bow",
+        "zh-Hans": "十字连弩",
+        "ja": "クロスボウ",
+        "ko": "대형 석궁",
+        "de": "X-Bogen"
+      }
+    },
+    {
+      "id": 27000009,
+      "name": "Tombstone",
+      "rarity": "rare",
+      "elixir": 3,
+      "type": "building",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Tombstone",
+        "zh-Hans": "骷髅墓碑",
+        "ja": "墓石",
+        "ko": "해골 무덤",
+        "de": "Grabstein"
+      }
+    },
+    {
+      "id": 27000010,
+      "name": "Furnace",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Furnace",
+        "zh-Hans": "烈焰熔炉",
+        "ko": "용광로"
+      }
+    },
+    {
+      "id": 27000012,
+      "name": "Goblin Cage",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Cage",
+        "zh-Hans": "哥布林牢笼",
+        "ko": "고블린 우리"
+      }
+    },
+    {
+      "id": 27000013,
+      "name": "Goblin Drill",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "building",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Drill",
+        "zh-Hans": "哥布林钻机",
+        "ja": "ゴブリンドリル",
+        "ko": "고블린 드릴"
+      }
+    },
+    {
+      "id": 28000000,
+      "name": "Fireball",
+      "rarity": "rare",
+      "elixir": 4,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Fireball",
+        "zh-Hans": "火球",
+        "ja": "ファイアボール",
+        "ko": "파이어 볼",
+        "de": "Feuerball"
+      }
+    },
+    {
+      "id": 28000001,
+      "name": "Arrows",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Arrows",
+        "zh-Hans": "万箭齐发",
+        "ja": "矢の雨",
+        "ko": "화살",
+        "de": "Pfeile"
+      }
+    },
+    {
+      "id": 28000002,
+      "name": "Rage",
+      "rarity": "epic",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Rage",
+        "zh-Hans": "狂暴法术",
+        "ja": "レイジ",
+        "ko": "분노 마법",
+        "de": "Wut"
+      }
+    },
+    {
+      "id": 28000003,
+      "name": "Rocket",
+      "rarity": "rare",
+      "elixir": 6,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Rocket",
+        "zh-Hans": "火箭",
+        "ja": "ロケット",
+        "ko": "로켓",
+        "de": "Rakete"
+      }
+    },
+    {
+      "id": 28000004,
+      "name": "Goblin Barrel",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Barrel",
+        "zh-Hans": "哥布林飞桶",
+        "ja": "ゴブリンバレル",
+        "ko": "고블린 통",
+        "de": "Koboldfass"
+      }
+    },
+    {
+      "id": 28000005,
+      "name": "Freeze",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Freeze",
+        "zh-Hans": "冰冻法术",
+        "ja": "フリーズ",
+        "ko": "얼음 마법"
+      }
+    },
+    {
+      "id": 28000006,
+      "name": "Mirror",
+      "rarity": "epic",
+      "elixir": null,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Mirror",
+        "zh-Hans": "镜像法术",
+        "ja": "ミラー",
+        "ko": "반사경",
+        "de": "Spiegel"
+      }
+    },
+    {
+      "id": 28000007,
+      "name": "Lightning",
+      "rarity": "epic",
+      "elixir": 6,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Lightning",
+        "zh-Hans": "雷电法术",
+        "ja": "ライトニング",
+        "ko": "번개 마법",
+        "de": "Blitz"
+      }
+    },
+    {
+      "id": 28000008,
+      "name": "Zap",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Zap",
+        "zh-Hans": "电击法术",
+        "ja": "ザップ",
+        "ko": "감전 마법"
+      }
+    },
+    {
+      "id": 28000009,
+      "name": "Poison",
+      "rarity": "epic",
+      "elixir": 4,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Poison",
+        "zh-Hans": "伤害药水法术",
+        "ja": "ポイズン",
+        "ko": "독 마법",
+        "de": "Gift"
+      }
+    },
+    {
+      "id": 28000010,
+      "name": "Graveyard",
+      "rarity": "legendary",
+      "elixir": 5,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Graveyard",
+        "zh-Hans": "骷髅召唤",
+        "ja": "スケルトンラッシュ",
+        "ko": "무덤",
+        "de": "Friedhof"
+      }
+    },
+    {
+      "id": 28000011,
+      "name": "The Log",
+      "rarity": "legendary",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "The Log",
+        "zh-Hans": "滚木",
+        "ja": "ローリングウッド",
+        "ko": "통나무"
+      }
+    },
+    {
+      "id": 28000012,
+      "name": "Tornado",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Tornado",
+        "zh-Hans": "飓风法术",
+        "ja": "トルネード",
+        "ko": "토네이도",
+        "de": "Tornado"
+      }
+    },
+    {
+      "id": 28000013,
+      "name": "Clone",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Clone",
+        "zh-Hans": "克隆法术",
+        "ja": "クローン",
+        "ko": "복제 마법",
+        "de": "Klon"
+      }
+    },
+    {
+      "id": 28000014,
+      "name": "Earthquake",
+      "rarity": "rare",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Earthquake",
+        "zh-Hans": "地震法术",
+        "ja": "アースクエイク",
+        "ko": "지진 마법",
+        "de": "Erdbeben"
+      }
+    },
+    {
+      "id": 28000015,
+      "name": "Barbarian Barrel",
+      "rarity": "epic",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": true,
+      "names": {
+        "en": "Barbarian Barrel",
+        "zh-Hans": "野蛮人滚桶",
+        "ja": "バーバリアンバレル",
+        "ko": "바바리안 통",
+        "de": "Barbarenfass"
+      }
+    },
+    {
+      "id": 28000016,
+      "name": "Heal Spirit",
+      "rarity": "rare",
+      "elixir": 1,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Heal Spirit",
+        "zh-Hans": "治疗精灵",
+        "ja": "ヒールスピリット",
+        "ko": "힐링 스피릿"
+      }
+    },
+    {
+      "id": 28000017,
+      "name": "Giant Snowball",
+      "rarity": "common",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": true,
+      "has_hero": false,
+      "names": {
+        "en": "Giant Snowball",
+        "zh-Hans": "大雪球",
+        "ko": "거대 눈덩이"
+      }
+    },
+    {
+      "id": 28000018,
+      "name": "Royal Delivery",
+      "rarity": "common",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Delivery",
+        "zh-Hans": "皇家速递",
+        "ko": "로얄 택배"
+      }
+    },
+    {
+      "id": 28000023,
+      "name": "Void",
+      "rarity": "epic",
+      "elixir": 5,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Void",
+        "zh-Hans": "虚空法术",
+        "ko": "공허 마법"
+      }
+    },
+    {
+      "id": 28000024,
+      "name": "Goblin Curse",
+      "rarity": "epic",
+      "elixir": 2,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Goblin Curse",
+        "zh-Hans": "哥布林魔咒",
+        "ko": "고블린 저주"
+      }
+    },
+    {
+      "id": 28000025,
+      "name": "Spirit Empress",
+      "rarity": "legendary",
+      "elixir": 6,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Spirit Empress",
+        "zh-Hans": "精灵女王",
+        "ko": "스피릿 엠프레스"
+      }
+    },
+    {
+      "id": 28000026,
+      "name": "Vines",
+      "rarity": "epic",
+      "elixir": 3,
+      "type": "spell",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Vines",
+        "zh-Hans": "藤蔓法术",
+        "ko": "덩굴 마법"
+      }
+    },
+    {
+      "id": 159000000,
+      "name": "Tower Princess",
+      "rarity": "common",
+      "elixir": null,
+      "type": "tower_troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Tower Princess",
+        "zh-Hans": "皇家塔公主",
+        "ko": "타워 프린세스"
+      }
+    },
+    {
+      "id": 159000001,
+      "name": "Cannoneer",
+      "rarity": "epic",
+      "elixir": null,
+      "type": "tower_troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Cannoneer",
+        "zh-Hans": "炮兵",
+        "ko": "대포 사수"
+      }
+    },
+    {
+      "id": 159000002,
+      "name": "Dagger Duchess",
+      "rarity": "legendary",
+      "elixir": null,
+      "type": "tower_troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Dagger Duchess",
+        "zh-Hans": "飞刀女爵",
+        "ko": "단검 공작부인"
+      }
+    },
+    {
+      "id": 159000004,
+      "name": "Royal Chef",
+      "rarity": "legendary",
+      "elixir": null,
+      "type": "tower_troop",
+      "has_evolution": false,
+      "has_hero": false,
+      "names": {
+        "en": "Royal Chef",
+        "zh-Hans": "皇家大厨",
+        "ko": "로얄 셰프"
+      }
+    }
+  ]
+}
